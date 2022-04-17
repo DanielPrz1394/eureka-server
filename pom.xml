@@ -10,9 +10,10 @@
 
     <groupId>com.github.danielprz1394.applications</groupId>
     <artifactId>eureka-server</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>${project.artifactId}</name>
     <description>Eureka server for microservices with Spring.</description>
+    <url>https://github.com/DanielPrz1394/eureka-server</url>
 
     <licenses>
         <license>
