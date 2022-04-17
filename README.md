@@ -1,6 +1,7 @@
 # Eureka Server
 
-Server to register and locate existing microservices, report their location and status.
+Server to register and locate existing microservices, report their location and status using Spring Cloud Discovery
+Eureka Server and Spring Cloud Config Client.
 
 ## Getting Started
 
